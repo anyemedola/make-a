@@ -1,0 +1,31 @@
+
+ion-content{
+    --ion--background-color: #fff;
+}
+
+.background-container{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    background: url('../../assets/make-a.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+    flex-direction: column;
+    justify-content: center;
+}
+
+ion-card{
+    text-align: center;
+
+    img{
+        height: 5rem;
+        width: 7.2rem;
+    }
+
+    ion-card-title{
+        font-size: 20px;
+        color: #D2EDDD;
+        font-weight: 400;
+    }
+}
