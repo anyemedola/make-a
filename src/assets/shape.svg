@@ -1,3 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="172" height="150.744" viewBox="0 0 172 150.744">
-  <path id="Path_92" data-name="Path 92" d="M796.667,14S906,42.667,937.333,106s31.333,58.667,31.333,58.667V14Z" transform="translate(-796.667 -14)" fill="#198645"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="172"
+   height="150.744"
+   viewBox="0 0 172 150.744"
+   version="1.1"
+   id="svg17"
+   sodipodi:docname="shape.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs21" />
+  <sodipodi:namedview
+     id="namedview19"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.2969802"
+     inkscape:cx="85.987777"
+     inkscape:cy="75.372002"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg17" />
+  <path
+     id="Path_92"
+     data-name="Path 92"
+     d="M796.667,14S906,42.667,937.333,106s31.333,58.667,31.333,58.667V14Z"
+     transform="translate(-796.667 -14)"
+     fill="#198645" />
+  <path
+     style="fill:#aaaaff;stroke:none;stroke-width:0.303308"
+     d="M 170.25955,148.24171 C 166.65314,142.7162 160.29623,130.71532 147.7265,105.70279 142.72693,95.754123 137.57378,85.926933 136.24266,83.802792 125.17761,66.145735 107.17441,49.788297 82.462393,34.93886 61.509025,22.347992 34.523085,10.426252 9.2508895,2.5957769 5.9145031,1.5620128 2.8435111,0.59995695 2.4264628,0.45787517 2.005159,0.31434359 39.509451,0.18890362 86.821873,0.17559929 L 171.97555,0.15165393 V 75.372002 c 0,41.371188 -0.0409,75.220348 -0.0909,75.220348 -0.05,0 -0.78129,-1.05779 -1.62511,-2.35064 z"
+     id="path257" />
 </svg>
