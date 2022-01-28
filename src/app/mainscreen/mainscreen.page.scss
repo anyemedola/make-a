@@ -17,15 +17,49 @@ ion-content{
 
 ion-card{
     text-align: center;
+    background-color: transparent;
+    box-shadow: none;
+    position: relative;
+    z-index: 2;
 
     img{
-        height: 5rem;
-        width: 7.2rem;
+        height: 15rem;
+        width: 18.2rem;
+        box-shadow: #fff;
     }
 
     ion-card-title{
         font-size: 20px;
-        color: #D2EDDD;
+        color: #ffffff;
         font-weight: 400;
+        text-shadow: #fff;
+    }
+
+    ion-card-content{
+        margin-top: 20px;
+
+        ion-button{
+            width: 180px;
+            height: 60px;
+            --border-radius: 40px;
+            --background: #606EBF;
+            color: #fff;
+            font-weight: 400;
+            text-transform: none;
+            font-size: 20px;
+        }
+    }
+}
+
+@media screen{
+    .background-container::after{
+        content: '';
+        z-index: 1;
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        background: rgba(100, 110, 203, 0.445);
     }
 }
