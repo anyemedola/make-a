@@ -9,4 +9,9 @@ export class HomePage {
 
   constructor() {}
 
+  public isMobileLayout = false;
+  ngOnInit() {
+    window.onresize = () => this.isMobileLayout = window.innerWidth <= 991;
+  }
+
 }
