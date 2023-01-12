@@ -46,7 +46,7 @@ ion-card{
         font-size: 14px;
         font-weight: 400; 
         display: inline-block;
-        max-width: 140px;
+        max-width: 250px;
         strong{
             font-weight: bold;
             color: #606EBF;
@@ -58,7 +58,6 @@ ion-card{
         margin-top: 30px;
 
         ion-item{
-            padding: 120px 0;
             --ion-item-background:transparent;
             --border-width:0;
             --inner-border-width:0;
