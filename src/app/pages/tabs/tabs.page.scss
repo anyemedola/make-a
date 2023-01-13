@@ -1,0 +1,19 @@
+ion-tab-bar {
+    --ion-color-base: transparent !important;
+    --color-selected: #137574 !important;
+    ion-tab-button {
+        --background: #eef2ee;
+        --color-selected: #137c7a !important;
+    }
+
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}
+
+.middle-button-container {
+    position: absolute;
+    bottom: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+}
